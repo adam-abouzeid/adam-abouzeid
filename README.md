@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a self-taught software developer<br>Wrote my first line of code at the age of 14<br>
+I am a self-taught software developer<br>Wrote my first line of code at the age of 12<br>
 
 
 ## 🌐 Socials:
